@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "physics/Work Done by  a Gas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Work Done by  a Gas"
             }
           }
         ],
@@ -200,7 +200,16 @@
   },
   "active": "59baa77d1a179b59",
   "lastOpenFiles": [
+    "physics/Thermal Power.md",
+    "physics/Ideal Gas Laws.md",
+    "physics/Scalar Vector Quantities.md",
+    "physics/Scientific Notation.md",
+    "physics/Phase Changes Heating Curve.md",
+    "physics/Statics.md",
+    "physics/Vector Operations.md",
     "math/Basic Mathematics.md",
+    "physics/Work Done by  a Gas.md",
+    "physics/Physical Quantities SI.md",
     "README.md",
     "math/Common Algebraic Properties.md",
     "Basic Mathematics.md",
