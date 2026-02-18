@@ -49,3 +49,25 @@ This vault is designed for use with Obsidian, so preserve:
 - Markdown formatting compatible with Obsidian
 - Internal linking structure between related topics
 - Workspace configuration in `.obsidian/` directory
+
+## Project Maintenance Rules
+
+### README.md Updates
+**CRITICAL**: Always update the README.md file when making significant changes to this project:
+- When adding new topics or files to math/ or physics/ directories
+- When changing the vault structure or organization
+- When modifying navigation patterns or index files
+- When adding new features or capabilities
+- When removing or reorganizing content
+
+The README.md serves as the primary documentation for users and must accurately reflect:
+- Current vault structure (update the ASCII tree if directories change)
+- Topic counts and content overview
+- Navigation patterns and usage instructions
+- Any new setup requirements or configurations
+
+Update relevant sections in README.md:
+- **Vault Structure**: Reflect any directory or file changes
+- **Content Overview**: Update topic counts and descriptions
+- **Getting Started**: Modify if setup process changes
+- **How to Use**: Update navigation patterns if they change
