@@ -15,4 +15,4 @@
 - **Cardinality:** $n(A \cup B) = n(A) + n(B) - n(A \cap B)$
 
 ---
-Back to: [[Basic Mathematics]]
+Back to: [[index]]

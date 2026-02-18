@@ -11,4 +11,4 @@
 | **Cancellation** | $a+c = b+c \implies a=b$ | $ac = bc \implies a=b, c \neq 0$ |
 
 ---
-Back to: [[Basic Mathematics]]
+Back to: [[index]]

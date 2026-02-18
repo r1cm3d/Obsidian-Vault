@@ -1,4 +1,4 @@
-# Basic Mathematics
+# Mathematics Index
 
 - [[Common Algebraic Properties]]
 - [[Exponentiation and Radicals]]

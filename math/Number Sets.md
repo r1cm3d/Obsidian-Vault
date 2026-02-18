@@ -38,4 +38,4 @@ For $a, b \in \mathbb{R}$:
 - $\mathbb{Z}^+$: Positive integers $\{1, 2, 3, ...\}$.
 
 ---
-Back to: [[Basic Mathematics]]
+Back to: [[index]]

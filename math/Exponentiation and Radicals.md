@@ -23,4 +23,4 @@
 | **Factor Entry** | $a \sqrt[n]{b} = \sqrt[n]{a^n b}$ |
 
 ---
-Back to: [[Basic Mathematics]]
+Back to: [[index]]

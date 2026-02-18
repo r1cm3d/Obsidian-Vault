@@ -21,4 +21,4 @@
 | **$\cos \theta$** | $1$ | $\sqrt{3}/2$ | $\sqrt{2}/2$ | $1/2$ | $0$ |
 
 ---
-Back to: [[Basic Mathematics]]
+Back to: [[index]]

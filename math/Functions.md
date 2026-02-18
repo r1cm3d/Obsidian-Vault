@@ -15,4 +15,4 @@
 - **Reflections:** $-f(x)$ (X-axis reflection), $f(-x)$ (Y-axis reflection)
 
 ---
-Back to: [[Basic Mathematics]]
+Back to: [[index]]

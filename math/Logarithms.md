@@ -14,4 +14,4 @@ For $a, b, c > 0$ and $b, c \neq 1$:
 | **Reciprocal Rule** | $\log_b a = \frac{1}{\log_a b}$ |
 
 ---
-Back to: [[Basic Mathematics]]
+Back to: [[index]]
