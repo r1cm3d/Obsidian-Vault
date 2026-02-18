@@ -2,7 +2,7 @@
 
 A comprehensive knowledge base containing organized reference materials for mathematics and physics, designed for students, educators, and professionals who need quick access to fundamental concepts and formulas.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 [![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)](https://obsidian.md/)
 [![Maintained](https://img.shields.io/badge/Maintained-Yes-green.svg)](https://github.com/r1cm3d/Obsidian-Vault/commits/main)
 
@@ -154,19 +154,13 @@ Contributions are welcome! Please follow these guidelines:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
 - Built for the Obsidian community
 - Inspired by academic reference materials
 - Designed for educational purposes
-
-## 📞 Support
-
-- 🐛 **Issues**: [Report bugs or request features](https://github.com/r1cm3d/Obsidian-Vault/issues)
-- 💡 **Discussions**: [Community discussions](https://github.com/r1cm3d/Obsidian-Vault/discussions)
-- 📧 **Contact**: r1cm3d@protonmail.com
 
 ---
 
