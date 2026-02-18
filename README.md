@@ -12,7 +12,7 @@ This vault provides structured reference materials covering essential topics in 
 
 ### Key Features
 
-- **📖 Comprehensive Coverage**: 17+ reference topics across math and physics
+- **📖 Comprehensive Coverage**: 19+ reference topics across math and physics
 - **🔗 Interconnected Navigation**: Consistent linking between related concepts
 - **📐 Mathematical Notation**: Proper LaTeX formatting for formulas and equations
 - **🧭 Easy Navigation**: Index-based organization with "Back to" navigation
@@ -40,7 +40,9 @@ This vault provides structured reference materials covering essential topics in 
 │   ├── Ideal Gas Laws.md
 │   ├── Phase Changes Heating Curve.md
 │   ├── Thermal Power.md
-│   └── Work Done by a Gas.md
+│   ├── Work Done by a Gas.md
+│   ├── Forms of Energy.md
+│   └── Laws of Thermodynamics.md
 └── .obsidian/              # Obsidian configuration files
 ```
 
@@ -90,7 +92,8 @@ This vault provides structured reference materials covering essential topics in 
 
 - **Fundamentals**: SI units, scalar/vector quantities, scientific notation
 - **Mechanics**: Statics, vector operations, force analysis
-- **Thermodynamics**: Gas laws, phase changes, thermal power, work
+- **Thermodynamics**: Gas laws, phase changes, thermal power, work, energy forms
+- **Energy & Laws**: Kinetic/potential energy, thermodynamic laws, Carnot cycle
 
 ## 🎯 How to Use This Vault
 
