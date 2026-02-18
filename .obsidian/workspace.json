@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "physics/Ideal Gas Laws.md",
+                "file": "physics/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Ideal Gas Laws"
+              "title": "index"
             }
           }
         ],
@@ -200,6 +200,14 @@
   },
   "active": "59baa77d1a179b59",
   "lastOpenFiles": [
+    "physics/Forms of Energy.md",
+    "physics/Laws of Thermodynamics.md",
+    "physics/Work Done by  a Gas.md",
+    "physics/index.md",
+    "physics/Ideal Gas Laws.md",
+    "math/index.md",
+    "math/Common Algebraic Properties.md",
+    "physics/Physical Quantities SI.md",
     "README.md.tmp.207047.1771420897681",
     "README.md.tmp.207047.1771420893830",
     "README.md.tmp.207047.1771420890875",
@@ -210,23 +218,16 @@
     "physics/Phase Changes Heating Curve.md.tmp.207047.1771419811024",
     "physics/Ideal Gas Laws.md.tmp.207047.1771419805692",
     "physics/Physical Quantities SI.md.tmp.207047.1771419800293",
-    "physics/Statics.md.tmp.207047.1771419788389",
-    "physics/index.md",
-    "math/index.md",
     "CLAUDE.md",
     "math/Trigonometry.md",
-    "physics/Work Done by  a Gas.md",
     "physics/Thermal Power.md",
-    "physics/Ideal Gas Laws.md",
     "physics/Scalar Vector Quantities.md",
     "physics/Scientific Notation.md",
     "physics/Phase Changes Heating Curve.md",
     "physics/Statics.md",
     "physics/Vector Operations.md",
     "math/Basic Mathematics.md",
-    "physics/Physical Quantities SI.md",
     "README.md",
-    "math/Common Algebraic Properties.md",
     "Basic Mathematics.md",
     "Untitled.canvas",
     "math/Number Sets.md",
@@ -235,7 +236,6 @@
     "math/Functions.md",
     "math/Logarithms.md",
     "Matemática Básica.md",
-    "# 🗺️ Mapa de Matemática BásicaEste é o ponto de partida para as propriedades fundamentais.- [[Propriedades Comuns]]- [[Exponenciação e Radiciação]]- [[Logaritmos e Conjuntos]]- [[Trigonometria e Funções]]---#estudo #matematica #fisica.md",
-    "Welcome.md"
+    "# 🗺️ Mapa de Matemática BásicaEste é o ponto de partida para as propriedades fundamentais.- [[Propriedades Comuns]]- [[Exponenciação e Radiciação]]- [[Logaritmos e Conjuntos]]- [[Trigonometria e Funções]]---#estudo #matematica #fisica.md"
   ]
 }
