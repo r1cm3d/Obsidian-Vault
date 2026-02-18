@@ -32,3 +32,6 @@ where:
 - $u_y$ — projection (component) of $\vec{u}$ onto the $y$-axis
 - $|\vec{u}|$ — magnitude (module) of the vector
 - $\alpha$ — angle between the vector and the positive $x$-axis
+
+---
+Back to: [[index]]

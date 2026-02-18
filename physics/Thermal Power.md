@@ -27,3 +27,6 @@ where:
 ## Energy Conversion
 
 $$1\ \text{cal} = 4.2\ \text{J} \qquad 1\ \text{J} = \frac{1}{4.2}\ \text{cal} \approx 0.238\ \text{cal}$$
+
+---
+Back to: [[index]]

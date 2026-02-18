@@ -186,3 +186,6 @@
 | ampere-hour | $\mathrm{Ah}$ | $\times 3{,}600$ | $1\;\mathrm{Ah} = 3{,}600\;\mathrm{C}$ |
 | milliampere-hour | $\mathrm{mAh}$ | $\times 3.6$ | $1\;\mathrm{mAh} = 3.6\;\mathrm{C}$ |
 | elementary charge | $e$ | $\times 1.602 \times 10^{-19}$ | $1\;e \approx 1.602 \times 10^{-19}\;\mathrm{C}$ |
+
+---
+Back to: [[index]]

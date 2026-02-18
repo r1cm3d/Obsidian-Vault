@@ -70,3 +70,6 @@ where:
 | $c_{\text{water}}$ | $1\ \text{cal/(g·°C)}$ or $4186\ \text{J/(kg·°C)}$ |
 | $L_f$ (fusion) | $80\ \text{cal/g}$ |
 | $L_v$ (vaporization) | $540\ \text{cal/g}$ or $2260\ \text{kJ/kg}$ |
+
+---
+Back to: [[index]]

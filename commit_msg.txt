@@ -1,3 +1,0 @@
-Add project skeleton and documentation
-
-This commit adds the initial set of files including the license, README, math documentation, Obsidian configuration, and IDE configuration.

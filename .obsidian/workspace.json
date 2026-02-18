@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "physics/Work Done by  a Gas.md",
+                "file": "physics/Ideal Gas Laws.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Work Done by  a Gas"
+              "title": "Ideal Gas Laws"
             }
           }
         ],
@@ -200,6 +200,22 @@
   },
   "active": "59baa77d1a179b59",
   "lastOpenFiles": [
+    "physics/Work Done by  a Gas.md.tmp.207047.1771419821105",
+    "physics/Thermal Power.md.tmp.207047.1771419821075",
+    "physics/Phase Changes Heating Curve.md.tmp.207047.1771419811024",
+    "physics/Ideal Gas Laws.md.tmp.207047.1771419805692",
+    "physics/Physical Quantities SI.md.tmp.207047.1771419800293",
+    "physics/Statics.md.tmp.207047.1771419788389",
+    "physics/Scientific Notation.md.tmp.207047.1771419784964",
+    "physics/Vector Operations.md.tmp.207047.1771419780339",
+    "physics/Scalar Vector Quantities.md.tmp.207047.1771419776523",
+    "physics/index.md",
+    "physics/index.md.tmp.207047.1771419749061",
+    "CLAUDE.md.tmp.207047.1771419661386",
+    "math/index.md",
+    "CLAUDE.md",
+    "math/Trigonometry.md",
+    "physics/Work Done by  a Gas.md",
     "physics/Thermal Power.md",
     "physics/Ideal Gas Laws.md",
     "physics/Scalar Vector Quantities.md",
@@ -208,7 +224,6 @@
     "physics/Statics.md",
     "physics/Vector Operations.md",
     "math/Basic Mathematics.md",
-    "physics/Work Done by  a Gas.md",
     "physics/Physical Quantities SI.md",
     "README.md",
     "math/Common Algebraic Properties.md",
@@ -218,12 +233,9 @@
     "math/Set Theory.md",
     "math/Exponentiation and Radicals.md",
     "math/Functions.md",
-    "math/Trigonometry.md",
     "math/Logarithms.md",
     "Matemática Básica.md",
     "# 🗺️ Mapa de Matemática BásicaEste é o ponto de partida para as propriedades fundamentais.- [[Propriedades Comuns]]- [[Exponenciação e Radiciação]]- [[Logaritmos e Conjuntos]]- [[Trigonometria e Funções]]---#estudo #matematica #fisica.md",
-    "Welcome.md",
-    "Untitled.base",
-    "math"
+    "Welcome.md"
   ]
 }

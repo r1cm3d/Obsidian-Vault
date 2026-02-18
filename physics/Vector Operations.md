@@ -65,3 +65,6 @@ $$\vec{R} = k\,\vec{u}$$
 - The magnitude is scaled: $|\vec{R}| = |k| \cdot |\vec{u}|$
 - The direction remains the same
 - If $k > 0$, the sense is preserved; if $k < 0$, the sense is reversed
+
+---
+Back to: [[index]]

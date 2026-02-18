@@ -59,3 +59,6 @@ $$\sum M_O = 0$$
 The algebraic sum of all torques about **any** point is zero. This prevents rotational motion.
 
 > Both conditions must hold for full static equilibrium of a rigid body.
+
+---
+Back to: [[index]]

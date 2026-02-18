@@ -26,3 +26,6 @@ $$0.000\,000\,56 = 5.6 \times 10^{-7}$$
 | Mass of the Sun | $M_\odot = 3.955 \times 10^{30}\ \text{kg}$ |
 | Hydrogen atom radius | $r_H = 5 \times 10^{-9}\ \text{cm}$ |
 | Proton charge | $e = 1.602\,176\,634 \times 10^{-19}\ \text{C}$ |
+
+---
+Back to: [[index]]

@@ -71,3 +71,6 @@ where:
 | Isobaric | $P$ | Charles / 1st Gay-Lussac | $V_1/T_1 = V_2/T_2$ |
 | Isochoric | $V$ | 2nd Gay-Lussac | $P_1/T_1 = P_2/T_2$ |
 | General | — | Combined gas law | $P_1V_1/T_1 = P_2V_2/T_2$ |
+
+---
+Back to: [[index]]

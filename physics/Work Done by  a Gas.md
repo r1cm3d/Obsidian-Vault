@@ -39,3 +39,6 @@ $$W = \int_{V_1}^{V_2} P\, dV$$
 For a linear process on the P–V diagram, the area forms a trapezoid:
 
 $$W = \frac{(P_1 + P_2)}{2} \cdot (V_2 - V_1)$$
+
+---
+Back to: [[index]]
