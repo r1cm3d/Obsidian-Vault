@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "physics/index.md",
-                "mode": "source",
+                "file": "math/Trigonometry.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Trigonometry"
             }
           }
         ],
@@ -200,15 +200,16 @@
   },
   "active": "59baa77d1a179b59",
   "lastOpenFiles": [
-    "README.md.tmp.234219.1771435020416",
+    "physics/Physical Quantities SI.md",
+    "math/Logarithms.md",
+    "physics/Ideal Gas Laws.md",
     "physics/Forms of Energy.md",
+    "physics/index.md",
+    "README.md.tmp.234219.1771435020416",
     "physics/Laws of Thermodynamics.md",
     "physics/Work Done by  a Gas.md",
-    "physics/index.md",
-    "physics/Ideal Gas Laws.md",
     "math/index.md",
     "math/Common Algebraic Properties.md",
-    "physics/Physical Quantities SI.md",
     "README.md.tmp.207047.1771420897681",
     "README.md.tmp.207047.1771420893830",
     "README.md.tmp.207047.1771420890875",
@@ -218,7 +219,6 @@
     "physics/Thermal Power.md.tmp.207047.1771419821075",
     "physics/Phase Changes Heating Curve.md.tmp.207047.1771419811024",
     "physics/Ideal Gas Laws.md.tmp.207047.1771419805692",
-    "physics/Physical Quantities SI.md.tmp.207047.1771419800293",
     "CLAUDE.md",
     "math/Trigonometry.md",
     "physics/Thermal Power.md",
@@ -235,7 +235,6 @@
     "math/Set Theory.md",
     "math/Exponentiation and Radicals.md",
     "math/Functions.md",
-    "math/Logarithms.md",
     "Matemática Básica.md"
   ]
 }
