@@ -20,5 +20,12 @@
 | **$\sin \theta$** | $0$ | $1/2$ | $\sqrt{2}/2$ | $\sqrt{3}/2$ | $1$ |
 | **$\cos \theta$** | $1$ | $\sqrt{3}/2$ | $\sqrt{2}/2$ | $1/2$ | $0$ |
 
+### 5. Law of Sines and Cosines 
+* Law of Sines: 
+*
+$\frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}$ 
+* Law of Cosines: 
+$c^2 = a^2 + b^2 - 2ab \cos C$
+
 ---
 Back to: [[index]]
