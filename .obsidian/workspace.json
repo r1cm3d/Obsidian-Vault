@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Trigonometry.md",
+                "file": "physics/Common Symbols for Known Forces.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Trigonometry"
+              "title": "Common Symbols for Known Forces"
             }
           }
         ],
@@ -200,13 +200,21 @@
   },
   "active": "59baa77d1a179b59",
   "lastOpenFiles": [
-    "physics/Physical Quantities SI.md",
-    "math/Logarithms.md",
-    "physics/Ideal Gas Laws.md",
     "physics/Forms of Energy.md",
+    "physics/Phase Changes Heating Curve.md",
     "physics/index.md",
-    "README.md.tmp.234219.1771435020416",
+    "physics/Common Symbols for Known Forces.md",
     "physics/Laws of Thermodynamics.md",
+    "math/Logarithms.md",
+    "math/Number Sets.md",
+    "math/Set Theory.md",
+    "math/Trigonometry.md",
+    "math/Functions.md",
+    "physics/Statics.md",
+    "physics/Thermal Power.md",
+    "physics/Physical Quantities SI.md",
+    "physics/Ideal Gas Laws.md",
+    "README.md.tmp.234219.1771435020416",
     "physics/Work Done by  a Gas.md",
     "math/index.md",
     "math/Common Algebraic Properties.md",
@@ -220,21 +228,14 @@
     "physics/Phase Changes Heating Curve.md.tmp.207047.1771419811024",
     "physics/Ideal Gas Laws.md.tmp.207047.1771419805692",
     "CLAUDE.md",
-    "math/Trigonometry.md",
-    "physics/Thermal Power.md",
     "physics/Scalar Vector Quantities.md",
     "physics/Scientific Notation.md",
-    "physics/Phase Changes Heating Curve.md",
-    "physics/Statics.md",
     "physics/Vector Operations.md",
     "math/Basic Mathematics.md",
     "README.md",
     "Basic Mathematics.md",
     "Untitled.canvas",
-    "math/Number Sets.md",
-    "math/Set Theory.md",
     "math/Exponentiation and Radicals.md",
-    "math/Functions.md",
     "Matemática Básica.md"
   ]
 }

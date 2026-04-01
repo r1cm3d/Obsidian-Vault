@@ -1,4 +1,4 @@
-# Trigonometry
+
 
 ### 1. Fundamental Identities
 - **Pythagorean Identity:** $\sin^2 x + \cos^2 x = 1$
