@@ -7,6 +7,7 @@
 - [[Trigonometry]]
 - [[Functions]]
 - [[Number Sets]]
+- [[Combinatorics]]
 
 ---
 #study #math #physics

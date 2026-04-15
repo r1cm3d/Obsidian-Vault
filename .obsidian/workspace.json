@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Trigonometry.md",
+                "file": "math/Combinatorics.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Trigonometry"
+              "title": "Combinatorics"
             }
           }
         ],
@@ -200,8 +200,16 @@
   },
   "active": "59baa77d1a179b59",
   "lastOpenFiles": [
-    "math/Functions.md",
     "math/Exponentiation and Radicals.md",
+    "math/Functions.md",
+    "math/Combinatorics.md",
+    "math/index.md",
+    "math/Common Algebraic Properties.md",
+    "physics/Thermal Power.md",
+    "physics/Vector Operations.md",
+    "physics/Physical Quantities SI.md",
+    "physics/Common Symbols for Known Forces.md",
+    "math/Trigonometry.md",
     "physics/Scientific Notation.md",
     "physics/Statics.md",
     "physics/Laws of Thermodynamics.md",
@@ -209,19 +217,12 @@
     "physics/index.md",
     "physics/Ideal Gas Laws.md",
     "physics/Forms of Energy.md",
-    "physics/Common Symbols for Known Forces.md",
-    "physics/Physical Quantities SI.md",
-    "physics/Vector Operations.md",
     "physics/Scalar Vector Quantities.md",
     "math/Logarithms.md",
     "math/Number Sets.md",
     "math/Set Theory.md",
-    "math/Trigonometry.md",
-    "physics/Thermal Power.md",
     "README.md.tmp.234219.1771435020416",
     "physics/Work Done by  a Gas.md",
-    "math/index.md",
-    "math/Common Algebraic Properties.md",
     "README.md.tmp.207047.1771420897681",
     "README.md.tmp.207047.1771420893830",
     "README.md.tmp.207047.1771420890875",
@@ -235,7 +236,6 @@
     "math/Basic Mathematics.md",
     "README.md",
     "Basic Mathematics.md",
-    "Untitled.canvas",
-    "Matemática Básica.md"
+    "Untitled.canvas"
   ]
 }
