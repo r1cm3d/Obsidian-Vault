@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Basic Mathematics.md",
-                "mode": "source",
+                "file": "math/Newton's Binomial Theorem.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic Mathematics"
+              "title": "Newton's Binomial Theorem"
             }
           },
           {
@@ -28,15 +28,14 @@
               "type": "markdown",
               "state": {
                 "file": "math/Combinatorics.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "Combinatorics"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,12 +197,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "59baa77d1a179b59",
+  "active": "923633398a66d839",
   "lastOpenFiles": [
+    "math/index.md",
+    "math/Newton's Binomial Theorem.md",
+    "math/Combinatorics.md",
     "math/Exponentiation and Radicals.md",
     "math/Functions.md",
-    "math/Combinatorics.md",
-    "math/index.md",
     "math/Common Algebraic Properties.md",
     "physics/Thermal Power.md",
     "physics/Vector Operations.md",
@@ -235,7 +235,6 @@
     "CLAUDE.md",
     "math/Basic Mathematics.md",
     "README.md",
-    "Basic Mathematics.md",
     "Untitled.canvas"
   ]
 }

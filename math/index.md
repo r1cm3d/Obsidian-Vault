@@ -8,6 +8,7 @@
 - [[Functions]]
 - [[Number Sets]]
 - [[Combinatorics]]
+- [[Newton's Binomial Theorem]]
 
 ---
 #study #math #physics
